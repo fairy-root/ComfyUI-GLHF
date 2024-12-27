@@ -1,0 +1,9 @@
+{
+    "baseurl": "https://glhf.chat/api/openai/v1",
+    "api_key": "YOUR_API_KEY",
+    "models": {
+        "Llama3.3 70b": "hf:meta-llama/Llama-3.3-70B-Instruct",
+        "QWQ 32b": "hf:Qwen/QwQ-32B-Preview",
+        "Llama3.3 70b Uncensored": "hf:huihui-ai/Llama-3.3-70B-Instruct-abliterated"
+    }
+}

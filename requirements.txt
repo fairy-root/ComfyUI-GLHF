@@ -1,0 +1,4 @@
+openai
+googlesearch-python
+requests
+bs4
